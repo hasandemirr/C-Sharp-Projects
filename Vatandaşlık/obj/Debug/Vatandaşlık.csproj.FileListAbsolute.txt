@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\bin\Debug\Vatandaşlık.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\bin\Debug\Vatandaşlık.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\bin\Debug\Vatandaşlık.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Vatandaşlık\obj\Debug\Vatandaşlık.pdb
