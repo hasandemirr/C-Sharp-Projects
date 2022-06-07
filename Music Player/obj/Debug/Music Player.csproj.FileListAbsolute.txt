@@ -1,0 +1,15 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music_Player.player.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\bin\Debug\Music Player.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\bin\Debug\Music Player.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Music Player\obj\Debug\Music Player.pdb
