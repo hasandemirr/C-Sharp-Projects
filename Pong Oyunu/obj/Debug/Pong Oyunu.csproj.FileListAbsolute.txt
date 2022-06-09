@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\bin\Debug\Pong Oyunu.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\bin\Debug\Pong Oyunu.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\bin\Debug\Pong Oyunu.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong Oyunu.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong_Oyunu.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong_Oyunu.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong Oyunu.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong Oyunu.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Pong Oyunu\obj\Debug\Pong Oyunu.pdb
