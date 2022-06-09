@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web_Browser.frmMain.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Web Browser\obj\Debug\Web Browser.pdb
