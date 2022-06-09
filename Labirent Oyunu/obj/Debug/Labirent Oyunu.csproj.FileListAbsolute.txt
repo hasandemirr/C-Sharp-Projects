@@ -1,0 +1,12 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\bin\Debug\Labirent Oyunu.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\bin\Debug\Labirent Oyunu.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\bin\Debug\Labirent Oyunu.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent_Oyunu.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent_Oyunu.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent Oyunu.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent Oyunu.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent Oyunu.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent Oyunu.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent_Oyunu.Form2.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Labirent Oyunu\obj\Debug\Labirent_Oyunu.Form3.resources
