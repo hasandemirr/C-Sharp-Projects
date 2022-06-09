@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint_Uygulaması.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint_Uygulaması.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\bin\Debug\Paint Uygulaması.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\bin\Debug\Paint Uygulaması.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\bin\Debug\Paint Uygulaması.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint Uygulaması.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Paint Uygulaması\obj\Debug\Paint Uygulaması.pdb
