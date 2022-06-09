@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf Görüntüleyici.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf_Görüntüleyici.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf_Görüntüleyici.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf Görüntüleyici.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf Görüntüleyici.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\bin\Debug\Fotoğraf Görüntüleyici.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\bin\Debug\Fotoğraf Görüntüleyici.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\bin\Debug\Fotoğraf Görüntüleyici.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf Görüntüleyici.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Fotoğraf Görüntüleyici\obj\Debug\Fotoğraf Görüntüleyici.pdb
