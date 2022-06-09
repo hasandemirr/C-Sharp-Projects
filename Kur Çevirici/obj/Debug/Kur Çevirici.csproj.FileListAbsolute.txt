@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\bin\Debug\Kur Çevirici.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\bin\Debug\Kur Çevirici.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\bin\Debug\Kur Çevirici.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur_Çevirici.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur Çevirici.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur Çevirici.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur Çevirici.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur Çevirici.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur_Çevirici.Currency.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Kur Çevirici\obj\Debug\Kur Çevirici.csproj.AssemblyReference.cache
