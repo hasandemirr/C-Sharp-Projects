@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\bin\Debug\Screen Saver.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\bin\Debug\Screen Saver.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\bin\Debug\Screen Saver.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen Saver.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen_Saver.ScrnSvr.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen_Saver.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen Saver.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen Saver.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen Saver.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Screen Saver\obj\Debug\Screen Saver.pdb
