@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\bin\Debug\Currency Exchange.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\bin\Debug\Currency Exchange.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\bin\Debug\Currency Exchange.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency Exchange.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency_Exchange.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency_Exchange.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency Exchange.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency Exchange.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency Exchange.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Currency Exchange\obj\Debug\Currency Exchange.pdb
