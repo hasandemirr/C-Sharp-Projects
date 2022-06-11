@@ -1,0 +1,11 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\bin\Debug\Anket Programı.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\bin\Debug\Anket Programı.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\bin\Debug\Anket Programı.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket Programı.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket_Programı.FrmOylama.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket_Programı.FrmGrafikler.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket_Programı.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket Programı.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket Programı.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket Programı.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Anket Programı\obj\Debug\Anket Programı.pdb
