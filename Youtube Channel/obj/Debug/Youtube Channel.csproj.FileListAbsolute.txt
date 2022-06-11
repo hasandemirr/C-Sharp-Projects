@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\bin\Debug\Youtube Channel.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\bin\Debug\Youtube Channel.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\bin\Debug\Youtube Channel.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube Channel.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube_Channel.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube_Channel.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube Channel.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube Channel.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube Channel.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Youtube Channel\obj\Debug\Youtube Channel.pdb
