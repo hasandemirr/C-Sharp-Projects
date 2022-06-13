@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\bin\Debug\Json Emoji.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\bin\Debug\Json Emoji.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\bin\Debug\Json Emoji.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json Emoji.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json_Emoji.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json_Emoji.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json Emoji.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json Emoji.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json Emoji.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Json Emoji\obj\Debug\Json Emoji.pdb
