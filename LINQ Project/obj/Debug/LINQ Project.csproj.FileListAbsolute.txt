@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\bin\Debug\LINQ Project.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\bin\Debug\LINQ Project.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\bin\Debug\LINQ Project.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ Project.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ_Project.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ Project.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ Project.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ Project.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ Project.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\LINQ Project\obj\Debug\LINQ_Project.Siparis_hepsi.resources
