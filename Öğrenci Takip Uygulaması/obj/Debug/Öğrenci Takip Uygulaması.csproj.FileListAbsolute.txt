@@ -1,0 +1,21 @@
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.exe.config
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.exe
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.pdb
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.AssemblyReference.cache
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci_Takip_Uygulaması.Form1.resources
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci_Takip_Uygulaması.Properties.Resources.resources
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.GenerateResource.cache
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.exe
+C:\Users\metha\source\repos\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci_Takip_Uygulaması.Dashboard.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci_Takip_Uygulaması.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci_Takip_Uygulaması.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\obj\Debug\Öğrenci Takip Uygulaması.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Öğrenci Takip Uygulaması\bin\Debug\Öğrenci Takip Uygulaması.pdb
