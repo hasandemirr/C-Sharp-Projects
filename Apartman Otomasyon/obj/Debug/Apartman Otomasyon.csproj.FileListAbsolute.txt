@@ -1,0 +1,12 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman Otomasyon.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman_Otomasyon.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman_Otomasyon.Gelirler.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman_Otomasyon.Giderler.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman_Otomasyon.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman Otomasyon.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\bin\Debug\Apartman Otomasyon.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\bin\Debug\Apartman Otomasyon.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\bin\Debug\Apartman Otomasyon.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman Otomasyon.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Apartman Otomasyon\obj\Debug\Apartman Otomasyon.pdb
