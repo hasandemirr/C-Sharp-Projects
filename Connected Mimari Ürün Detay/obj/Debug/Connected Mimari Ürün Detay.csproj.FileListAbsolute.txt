@@ -1,0 +1,11 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\bin\Debug\Connected Mimari Ürün Detay.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\bin\Debug\Connected Mimari Ürün Detay.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\bin\Debug\Connected Mimari Ürün Detay.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected Mimari Ürün Detay.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected_Mimari_Ürün_Detay.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected_Mimari_Ürün_Detay.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected Mimari Ürün Detay.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected Mimari Ürün Detay.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected Mimari Ürün Detay.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected Mimari Ürün Detay.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Connected Mimari Ürün Detay\obj\Debug\Connected_Mimari_Ürün_Detay.ProductDetail.resources
