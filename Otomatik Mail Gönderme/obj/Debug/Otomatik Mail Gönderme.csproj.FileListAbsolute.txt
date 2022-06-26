@@ -1,0 +1,6 @@
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\bin\Debug\Otomatik Mail Gönderme.exe.config
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\bin\Debug\Otomatik Mail Gönderme.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\bin\Debug\Otomatik Mail Gönderme.pdb
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\obj\Debug\Otomatik Mail Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\obj\Debug\Otomatik Mail Gönderme.exe
+C:\Users\metha\Desktop\C# Lessons\Projects\Otomatik Mail Gönderme\obj\Debug\Otomatik Mail Gönderme.pdb
